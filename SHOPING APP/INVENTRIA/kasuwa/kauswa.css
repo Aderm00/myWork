@@ -1,0 +1,35 @@
+.span{
+    color: rgb(153, 128, 128);
+}
+.path{
+    text-decoration: none;
+    color:black;
+    font-size: small;
+    margin: 2px;
+}
+.an{
+    text-decoration: none;
+    color: brown;
+    font-size: small;
+    margin: 2px;
+    font-family: "Rubik", sans-serif;
+}
+.term{
+    font-size: xx-large;
+}
+.bg{
+    height:20rem ;
+    width: 80rem;
+}
+.h4{
+    font-family: "Rubik", sans-serif; 
+}
+.last{
+    font-family: "Rubik", sans-serif;
+}
+.my{
+    font-size: large;
+}
+body{
+    position: absolute;
+}

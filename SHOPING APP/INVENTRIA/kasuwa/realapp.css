@@ -1,0 +1,25 @@
+.im{
+    width: 25rem;
+    height: 14.5rem;
+    border-radius: 50%;
+}
+.para{
+    font-family: "Rubik", sans-serif;
+    font-size: small;
+    text-align: center;
+}
+.body{
+    background-color: rgb(226, 231, 235);
+}
+.div{
+    background-color: white;
+    border-radius: 5px;
+}
+.h{
+    font-family: "Rubik", sans-serif; 
+    text-align: start;
+}
+.test:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}

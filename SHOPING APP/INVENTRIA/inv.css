@@ -1,0 +1,41 @@
+.bg{
+    background-color:#d9e1f0 ;
+}
+.b{
+}
+.headtext{
+    color:#555;
+    text-decoration: none;
+    font-size: 1.0rem;
+    font-family: "Rubik", sans-serif;
+    align-items: center;
+    display: inline-block;
+    transition: all 0.3s;
+    text-transform: capitalize;
+}
+.headtext:hover{
+    color: brown;
+}
+.bag{
+    border-radius: 10px;
+    background-color: #5576ba;
+    height: 30px;
+    color: white;
+}
+.log{
+    padding-left: 12rem;
+}
+.theme{
+    color: white;
+    background-color: #5576ba;
+    border-radius: 50%;
+    text-align: center;
+    width: 2rem;
+    height: 2rem;
+    padding: 6%;;
+}
+.moon{
+}
+button{
+    padding-left: 3rem;
+}

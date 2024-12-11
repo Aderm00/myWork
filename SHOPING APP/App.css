@@ -1,0 +1,73 @@
+.pp{
+  background-color: offwhite;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.btn{
+    border-radius: 4px;
+    border-color: rgb(237, 226, 226);
+    background-color: rgb(231, 221, 221);
+}
+.tt{
+    color: whitesmoke;
+}
+.im{
+    border-radius: 4px;
+    border-color: rgb(63, 49, 49);
+}
+.bg{
+    background-color: rgb(211, 211, 218);
+}
+.para{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+.h{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    width: 100;
+}
+.vertical-si {
+    height: 60vh !important;
+}
+.hr{
+    color:black;
+    width: 100%;
+}
+.foot1{
+    color: black;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style-type: none;
+}
+.foo{
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style-type: none;
+    font-size: small;
+    text-decoration: none;
+}
+.c{
+   margin: 30px;
+}
+.l{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+}
+.f{
+    color: black;
+    font-size: small;
+}
+.l{
+    color: black;
+    font-size: small;
+}
+a{
+    color: black;
+    font-size: small;
+}
+.img{
+    align-items: center;
+}
